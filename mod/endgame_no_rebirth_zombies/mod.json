@@ -1,0 +1,7 @@
+{
+    "name": "Endgame No Rebirth Zombies",
+    "author": "Kingmemarley",
+    "version": "1",
+    "type": "script",
+    "description": "Add-on for Endgame Offline Overhaul: stops the zombie that spawns where every Guild soldier dies on Avalon (the game's own rebirth zombie system). Nothing else is changed; also works without the Overhaul."
+}
